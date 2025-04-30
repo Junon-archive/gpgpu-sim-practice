@@ -1,5 +1,0 @@
-ptxas info    : 22 bytes gmem
-ptxas info    : Compiling entry function '_Z12hello_kernelv' for 'sm_52'
-ptxas info    : Function properties for _Z12hello_kernelv
-    8 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
-ptxas info    : Used 8 registers, 320 bytes cmem[0]
