@@ -61,8 +61,8 @@ fi
 
 # Simple configure, loop through all positional arguments
 # Default config
-#export GPGPUSIM_CONFIG=gcc-$CC_VERSION/cuda-$CUDA_VERSION_NUMBER/release
-export GPGPUSIM_CONFIG=$GPGPUSIM_ROOT/configs/tested-cfgs/SM2_GTX480
+export GPGPUSIM_CONFIG=gcc-$CC_VERSION/cuda-$CUDA_VERSION_NUMBER/release
+#export GPGPUSIM_CONFIG=$GPGPUSIM_ROOT/configs/tested-cfgs/SM2_GTX480
 
 for opt in $@
 do
